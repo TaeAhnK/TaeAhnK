@@ -34,5 +34,5 @@
 
 <div align="left">
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeahnk&layout=compact&size_weight=0.1&count_weight=0.5&hide=ASP.NET,ShaderLab,HLSL,Makefile,Assembly,HTML,SCSS,CSS,Ruby,JavaScript" width="35%" height="170" />
-  <img alt="algorithms" align="left" src="http://mazassumnida.wtf/api/generate_badge?boj=tenny0124" width=auto height="170"/>
+  <img alt="algorithms" align="left" src="http://mazassumnida.wtf/api/generate_badge?boj=tenny0124" width=auto height="165"/>
 </div>
