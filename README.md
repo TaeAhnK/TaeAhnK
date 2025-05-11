@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1A222C&height=300&section=header&text=TaeAhnK's%20Github&fontSize=60&animation=fadeI&fontColor=DDDDDD)
 
 <div>
-<a href="https://taeahnk.github.io"> <img href="taeahnk.github.io" src="https://img.shields.io/badge/Portfolio-1a222c?style=flat&logo=refinedgithub&logoColor=white&link=taeahnk.github.io" /></a>
-<a href="https://code-in-coffee.tistory.com"><img href="code-in-coffee.tistory.com" src="https://img.shields.io/badge/Blog-B20606?style=flat&logo=tistory&logoColor=white&link=code-in-coffee.tistory.com" /></a>
+<a href="https://taeahnk.github.io" target="_blank"> <img href="taeahnk.github.io" src="https://img.shields.io/badge/Portfolio-1a222c?style=flat&logo=refinedgithub&logoColor=white&link=taeahnk.github.io" /></a>
+<a href="https://code-in-coffee.tistory.com" target="_blank"><img href="code-in-coffee.tistory.com" src="https://img.shields.io/badge/Blog-B20606?style=flat&logo=tistory&logoColor=white&link=code-in-coffee.tistory.com" /></a>
 <img src="https://img.shields.io/badge/tenny0124@naver.com-2DB400?style=flat&logo=naver&logoColor=white" />
 </div>
 
