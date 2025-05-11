@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=1A222C&height=300&section=header&text=TaeAhnK's%20Github&fontSize=60&animation=fadeI&fontColor=DDDDDD)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1A222C&height=300&section=header&text=TaeAhnK's%20Github&fontSize=60&animation=fadeI&fontColor=FFFFFF)
 
 <div>
 <a href="https://taeahnk.github.io" target="_blank"> <img href="taeahnk.github.io" src="https://img.shields.io/badge/Portfolio-1a222c?style=flat&logo=refinedgithub&logoColor=white&link=taeahnk.github.io" /></a>
